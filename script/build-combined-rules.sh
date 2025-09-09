@@ -37,7 +37,7 @@ declare -A RULES=(
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
     "
     [Direct]="sort-clash.py
-        https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
+        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
     "
 )
 
