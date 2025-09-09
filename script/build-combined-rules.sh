@@ -39,7 +39,7 @@ declare -A RULES=(
     [Direct]="sort-clash.py
         https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
+        https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
     "
 )
 
