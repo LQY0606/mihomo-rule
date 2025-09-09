@@ -14,7 +14,7 @@ error() {
 
 # 定义规则源和对应的处理脚本
 declare -A RULES=(
-    [Ad]="sort-adblock.py
+    [Adlite]="sort-adblock.py
         https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
         https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt
@@ -28,18 +28,6 @@ declare -A RULES=(
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
-    "
-    [Proxy]="sort-clash.py
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tld-proxy.list
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.list
-        https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Proxy/Proxy_Domain_For_Clash.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
-    "
-    [Direct]="sort-clash.py
-        https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
-        https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
-        https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
     "
 )
 
