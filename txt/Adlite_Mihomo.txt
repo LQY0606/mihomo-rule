@@ -1222,7 +1222,6 @@
 +.wan.360.cn
 +.wows.360.cn
 +.yasuo.360.cn
-+.ykapi.luyou.360.cn
 +.3600.com
 +.36006ca3dd.com
 +.360640.com
@@ -1912,7 +1911,6 @@
 +.ee.57m1j.cn
 +.m.57m1j.cn
 +.ee.57m1j.com
-+.adtrack.58.com
 +.advert.58.com
 +.brandshow.58.com
 +.jing.58.com
@@ -4995,7 +4993,6 @@
 +.adxpub.com
 +.adxquare.com
 +.adxscope.com
-+.monitor.adxsenmeng.com
 +.adxsource.com
 +.adxsrver.com
 +.adxtag.online
@@ -7570,8 +7567,6 @@
 +.antonytemptedemail.com
 +.antpeelpiston.com
 +.antslebens.shop
-+.bu.antutu.net
-+.srtj.antutu.net
 +.antvietnam.com
 +.antvoice.com
 +.link.antwak.com
@@ -23515,7 +23510,6 @@
 +.dotdealingfilling.com
 +.dotedgiddied.click
 +.dotedwiikite.com
-+.monitor-web-eu.dotfashion.cn
 +.monitor-web.dotfashion.cn
 +.doting-rush.pro
 +.dotlikesnugs.life
@@ -42190,7 +42184,6 @@
 +.axp.ktsm.com
 +.srepdata.ktvb.com
 +.ywrcqa.ktvb.com
-+.webstat.ktvme.com
 +.ktzgusbpnzt.com
 +.ktztnutxckwiy.space
 +.ktzvyiia.xyz
@@ -52371,7 +52364,6 @@
 +.oartoushux.net
 +.oasazedy.com
 +.oasismarketing.oasisadvantage.com
-+.gtm.oasisfeng.com
 +.oassackegh.net
 +.oastcrottle.digital
 +.oastsfright.digital
@@ -55124,7 +55116,6 @@
 +.patterrope.click
 +.marketing.pattonhc.com
 +.pattyheadlong.com
-+.monitor.patzer0.com
 +.pauewr4cw2xs5q.com
 +.paufovurepeenou.net
 +.paukoothoophe.net
@@ -76728,7 +76719,6 @@
 +.app.smart.vivint.com
 +.sslmetrics.vivint.com
 +.vivistats.com
-+.adlog.vivo.com
 +.bhwkju.vivo.com
 +.vivocha.com
 +.asia-abeacdataonrt-stsdk.vivoglobal.com
