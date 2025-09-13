@@ -27,7 +27,6 @@ declare -A RULES=(
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
-        https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt
     "
 )
 
