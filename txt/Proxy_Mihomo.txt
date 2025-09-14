@@ -1,3 +1,4 @@
++.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1841,6 +1842,7 @@
 +.asp.net
 +.aspbjournals.org
 +.aspenpublishing.com
++.aspneeader.org
 +.aspnetcdn.com
 +.asproex.com
 +.asproexapi.com
@@ -2309,6 +2311,7 @@
 +.babylonbee.com
 +.babynet.com.hk
 +.babyzone.com
++.babyzopn.com
 +.backchina.com
 +.backdoorlesbians.com
 +.backroomcastingcouch.com
@@ -12222,6 +12225,7 @@
 +.mcrouter.net
 +.mcrouter.org
 +.mcstories.com
++.mcusercontent.com
 +.md
 +.md-t.org
 +.mdbankpublic.com
@@ -13440,6 +13444,7 @@
 +.ncol.com
 +.ndi.org
 +.ne
++.ne.com
 +.nebay.net
 +.neborder.com
 +.nec
@@ -15535,6 +15540,7 @@
 +.pramerica
 +.praxi
 +.prayforchina.net
++.prcl000webhost.com
 +.prcleader.org
 +.pre-bmwgroup.jobs
 +.predictivetechnologies.com
@@ -15890,7 +15896,6 @@
 +.qysg8.buzz
 +.qz.com
 +.qzav.tv
-+.r+.aaa
 +.r-pool.net
 +.r-project.org
 +.r10s.com
@@ -17197,6 +17202,7 @@
 +.skysportsracing.com
 +.skyvegas.com
 +.skyxvpn.com
++.skyxvtcdn.com
 +.sl
 +.sl-reverse.com
 +.sl99mod.buzz
@@ -18020,6 +18026,7 @@
 +.talentlens.com
 +.taleofthenight.com
 +.talk853.com
++.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
 +.talkonly.net
