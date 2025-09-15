@@ -1901,7 +1901,7 @@
 +.adjb.5nd.com
 +.5nfc.net
 +.5nt1gx7o57.com
-+.5odd5zsn.xyz
++.5odd5zsn.
 +.5.5ppt.net
 +.5pub.com
 +.e.5pzs0o.cn
@@ -4054,7 +4054,6 @@
 +.adkonekt.com
 +.adkongjian.com
 +.adkova.com
-+.adktfrpyamlod.xyz
 +.adku.com
 +.adkwai.com
 +.adlane.info
@@ -24038,6 +24037,7 @@
 +.mdws.eaglerivercu.com
 +.advisor.eaglestrategies.com
 +.eahpujutchkzn.online
++.eakelandorder.com
 +.a8cv.eakindo.com
 +.ealeo.com
 +.ealiukzemydreamsa.com
@@ -35115,6 +35115,7 @@
 +.hub.hubinternational.com
 +.internalcomms.hubinternational.com
 +.partner.hubinternational.com
++.privateclient.hubinternational.com
 +.hublosk.com
 +.hubrisone.com
 +.hubrus.com
@@ -46643,7 +46644,6 @@
 +.events-sandbox.data.microsoft.com
 +.events.data.microsoft.com
 +.fpt.microsoft.com
-+.geover-prod.do.dsp.mp.microsoft.com
 +.i1.services.social.microsoft.com
 +.ieonline.microsoft.com
 +.ieonlinews.microsoft.com
@@ -56662,7 +56662,6 @@
 +.privateadx.com
 +.eval.privateapi.click
 +.app.manager.privateaser.com
-+.privateclient.h
 +.privateseiten.net
 +.privatewebseiten.com
 +.metrics.privilege.com
@@ -60909,6 +60908,7 @@
 +.go2.ringcentral.com
 +.hwyyuy.ringcentral.com
 +.om.ringcentral.com
++.som.ringcentral.com
 +.ringeddrama.com
 +.ringersidewaysapiece.com
 +.simetra.tracking.ringieraxelspringer.tech
@@ -65587,7 +65587,6 @@
 +.solvebots.com
 +.track.solventum.com
 +.smetrics.solvingmdddisconnect.com
-+.som.ringce
 +.soma9vols.com
 +.somberscarecrow.com
 +.sombersea.com
@@ -71191,7 +71190,6 @@
 +.trk-maiorum.com
 +.trk-vod.com
 +.trk-web.com
-+.trk.blume20
 +.trk023.com
 +.trk4u.com
 +.trkbc.com
