@@ -1,4 +1,3 @@
-+.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -567,6 +566,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1842,7 +1842,6 @@
 +.asp.net
 +.aspbjournals.org
 +.aspenpublishing.com
-+.aspneeader.org
 +.aspnetcdn.com
 +.asproex.com
 +.asproexapi.com
@@ -2311,7 +2310,6 @@
 +.babylonbee.com
 +.babynet.com.hk
 +.babyzone.com
-+.babyzopn.com
 +.backchina.com
 +.backdoorlesbians.com
 +.backroomcastingcouch.com
@@ -13444,7 +13442,6 @@
 +.ncol.com
 +.ndi.org
 +.ne
-+.ne.com
 +.nebay.net
 +.neborder.com
 +.nec
@@ -15540,7 +15537,6 @@
 +.pramerica
 +.praxi
 +.prayforchina.net
-+.prcl000webhost.com
 +.prcleader.org
 +.pre-bmwgroup.jobs
 +.predictivetechnologies.com
@@ -17202,7 +17198,6 @@
 +.skysportsracing.com
 +.skyvegas.com
 +.skyxvpn.com
-+.skyxvtcdn.com
 +.sl
 +.sl-reverse.com
 +.sl99mod.buzz
