@@ -155,7 +155,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -6148,6 +6147,7 @@
 +.ebonywebcamhub.com
 +.eboobstore.com
 +.ebookbrowse.com
++.ebookee.c1password.drift.click
 +.ebookee.com
 +.ebookforipad.com
 +.ebsco.com
