@@ -4053,6 +4053,7 @@
 +.adjust.world
 +.adjustbedevilsweep.com
 +.adjustmentthesilver.com
++.adjux.com
 +.adjwl.com
 +.adk2.com
 +.adk2x.com
@@ -6272,7 +6273,6 @@
 +.sdc.allianz-autowelt.com
 +.tr.allianz-trade.com
 +.tr.infos.allianz-trade.com
-+.collect.allianz.
 +.agcs-knowledge.allianz.com
 +.strack.www.allianzcare-corporate.com
 +.strack.www.allianzcare.com
@@ -8313,6 +8313,7 @@
 +.apnmedia.ask.com
 +.askareltortoni.com
 +.askdomainad.com
++.askdriver.com
 +.askewusurp.shop
 +.asklfnmoqwe.xyz
 +.m1.asklib.com
