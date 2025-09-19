@@ -19353,6 +19353,7 @@
 +.cookiepop.app
 +.cookieq.com
 +.cookiereports.com
++.cookies.siemens-
 +.banner.cookiescan.com
 +.cookiescript.info
 +.cookiespool.com
@@ -53181,7 +53182,6 @@
 +.httpdns.ocloud.oppomobile.com
 +.httpdns.push.oppomobile.com
 +.predragate.dc.oppomobile.com
-+.u.oppomobile.com
 +.opportunitysearch.net
 +.opposecurves.life
 +.oppositionduchess.com
@@ -64827,7 +64827,6 @@
 +.info.siege-corp.com
 +.vhans.siege-corp.com
 +.simple.siegelgale.com
-+.cookies.siemens-advanta.com
 +.app.siemens-energy.com
 +.cookies.siemens-energy.com
 +.pages.siemens-energy.com
@@ -65584,6 +65583,7 @@
 +.smecticburping.click
 +.smellyredirect.click
 +.smenqskfmpfxnb.bid
++.smetrics.aai
 +.smgru.net
 +.smi.today
 +.static.smi2.net
